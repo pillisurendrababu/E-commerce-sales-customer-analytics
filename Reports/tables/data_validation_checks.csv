@@ -1,0 +1,9 @@
+check,passed
+unique_customer_ids,True
+unique_product_ids,True
+unique_order_ids,True
+unique_order_item_ids,True
+orders_reference_existing_customers,True
+items_reference_existing_orders,True
+items_reference_existing_products,True
+all_quantities_positive,True

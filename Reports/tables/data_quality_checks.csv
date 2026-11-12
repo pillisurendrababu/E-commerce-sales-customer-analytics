@@ -1,0 +1,5 @@
+table,rows,duplicate_rows,missing_cells
+customers,10000,0,0
+products,1000,0,0
+orders,50000,0,0
+order_items,102534,0,0
