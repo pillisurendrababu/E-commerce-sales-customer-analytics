@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,selling_price,cost_price
+P0001,Books Product 001,Books,Aster,1427.2,907.05
+P0002,Electronics Product 002,Electronics,Vivid,18315.22,14162.03
+P0003,Home & Kitchen Product 003,Home & Kitchen,Aster,7576.55,5545.62
+P0004,Sports Product 004,Sports,Peak,9220.47,6678.77
+P0005,Sports Product 005,Sports,Vivid,7109.33,4786.5
+P0006,Electronics Product 006,Electronics,Kairo,29196.53,22753.23
+P0007,Home & Kitchen Product 007,Home & Kitchen,Mira,9718.59,6371.58
+P0008,Books Product 008,Books,Northstar,1018.95,660.78
+P0009,Home & Kitchen Product 009,Home & Kitchen,Mira,6643.3,4457.16
+P0010,Electronics Product 010,Electronics,Aster,31164.33,23006.53
+P0011,Electronics Product 011,Electronics,Vivid,17416.46,11458.67
+P0012,Home & Kitchen Product 012,Home & Kitchen,Vivid,4352.66,2916.46
+P0013,Electronics Product 013,Electronics,Aster,56528.35,39837.81
+P0014,Beauty Product 014,Beauty,Vivid,943.18,682.85
+P0015,Books Product 015,Books,Aster,457.83,294.79
+P0016,Books Product 016,Books,Northstar,1486.3,1077.18
+P0017,Home & Kitchen Product 017,Home & Kitchen,Nova,16792.67,11435.28
+P0018,Home & Kitchen Product 018,Home & Kitchen,Mira,15106.16,10202.47
+P0019,Electronics Product 019,Electronics,UrbanNest,20428.58,12924.0
+P0020,Electronics Product 020,Electronics,Vivid,42027.77,32606.56
+P0021,Sports Product 021,Sports,Vivid,9735.94,7115.99
+P0022,Electronics Product 022,Electronics,Kairo,47735.82,30359.07
+P0023,Electronics Product 023,Electronics,UrbanNest,19276.8,13081.2
+P0024,Beauty Product 024,Beauty,UrbanNest,1759.53,1113.45
+P0025,Fashion Product 025,Fashion,Northstar,2879.56,2034.83
+P0026,Beauty Product 026,Beauty,Aster,2400.47,1757.2
+P0027,Electronics Product 027,Electronics,Vivid,29243.59,18395.63
+P0028,Beauty Product 028,Beauty,Peak,2046.44,1570.74
+P0029,Home & Kitchen Product 029,Home & Kitchen,Mira,12309.06,8368.46
+P0030,Electronics Product 030,Electronics,Vivid,51803.02,34063.95
+P0031,Home & Kitchen Product 031,Home & Kitchen,Kairo,16085.76,10307.38
+P0032,Sports Product 032,Sports,Kairo,9703.08,6241.99
+P0033,Home & Kitchen Product 033,Home & Kitchen,Nova,6280.72,4748.02
+P0034,Fashion Product 034,Fashion,Northstar,5775.13,4024.16
+P0035,Home & Kitchen Product 035,Home & Kitchen,Northstar,6897.91,5157.92
+P0036,Beauty Product 036,Beauty,Peak,939.25,616.46
+P0037,Electronics Product 037,Electronics,Nova,33290.11,22333.42
+P0038,Fashion Product 038,Fashion,Peak,4809.92,3299.69
+P0039,Beauty Product 039,Beauty,Aster,1172.96,812.54
+P0040,Sports Product 040,Sports,Mira,5979.01,3800.43
+P0041,Beauty Product 041,Beauty,Aster,1004.55,630.05
+P0042,Sports Product 042,Sports,Nova,8992.05,7007.89
+P0043,Electronics Product 043,Electronics,Nova,44995.87,32696.11
+P0044,Sports Product 044,Sports,Nova,8061.04,5068.48
+P0045,Sports Product 045,Sports,Nova,7349.88,5465.45
+P0046,Electronics Product 046,Electronics,Northstar,51020.71,34580.73
+P0047,Home & Kitchen Product 047,Home & Kitchen,Aster,9651.06,7213.53
+P0048,Electronics Product 048,Electronics,Northstar,33484.45,25848.93
+P0049,Electronics Product 049,Electronics,Peak,39340.57,24558.42
+P0050,Books Product 050,Books,Peak,1260.18,975.74
+P0051,Books Product 051,Books,Vivid,1349.09,872.22
+P0052,Sports Product 052,Sports,Aster,3535.75,2360.32
+P0053,Home & Kitchen Product 053,Home & Kitchen,Vivid,15191.08,10942.31
+P0054,Home & Kitchen Product 054,Home & Kitchen,Vivid,10063.2,7391.91
+P0055,Electronics Product 055,Electronics,Northstar,53533.69,34648.99
+P0056,Electronics Product 056,Electronics,Nova,37570.03,24115.91
+P0057,Fashion Product 057,Fashion,Aster,3823.31,2545.74
+P0058,Home & Kitchen Product 058,Home & Kitchen,Aster,6780.83,4557.37
+P0059,Home & Kitchen Product 059,Home & Kitchen,Mira,10297.67,6908.87
+P0060,Electronics Product 060,Electronics,UrbanNest,35694.56,23109.01
+P0061,Beauty Product 061,Beauty,Nova,2983.58,2313.26
+P0062,Electronics Product 062,Electronics,Nova,52722.12,39419.88
+P0063,Home & Kitchen Product 063,Home & Kitchen,UrbanNest,10513.27,8166.74
+P0064,Electronics Product 064,Electronics,Peak,51878.91,33025.35
+P0065,Electronics Product 065,Electronics,Mira,51309.68,32432.46
+P0066,Sports Product 066,Sports,Kairo,12112.24,8548.29
+P0067,Sports Product 067,Sports,Kairo,6567.15,4717.28
+P0068,Sports Product 068,Sports,Aster,5155.56,3720.38
+P0069,Electronics Product 069,Electronics,Vivid,55177.54,35033.39
+P0070,Books Product 070,Books,Peak,1115.61,842.29
+P0071,Fashion Product 071,Fashion,Nova,3779.96,2639.75
+P0072,Beauty Product 072,Beauty,Peak,1809.84,1228.7
+P0073,Electronics Product 073,Electronics,Vivid,18061.29,12655.73
+P0074,Books Product 074,Books,Aster,652.97,409.07
+P0075,Fashion Product 075,Fashion,Mira,2952.73,1932.3
+P0076,Home & Kitchen Product 076,Home & Kitchen,Northstar,11345.64,8846.86
+P0077,Electronics Product 077,Electronics,Mira,36721.95,26014.18
+P0078,Electronics Product 078,Electronics,Aster,37851.83,23943.8
+P0079,Beauty Product 079,Beauty,Aster,995.8,664.05
+P0080,Home & Kitchen Product 080,Home & Kitchen,Mira,4400.34,2858.3
+P0081,Sports Product 081,Sports,Mira,7526.79,5780.21
+P0082,Fashion Product 082,Fashion,Northstar,2489.2,1864.4
+P0083,Fashion Product 083,Fashion,Nova,5788.19,4095.17
+P0084,Home & Kitchen Product 084,Home & Kitchen,UrbanNest,9801.45,7569.51
+P0085,Beauty Product 085,Beauty,Kairo,1665.34,1131.86
+P0086,Electronics Product 086,Electronics,Mira,37901.04,28743.95
+P0087,Beauty Product 087,Beauty,Northstar,2337.5,1624.11
+P0088,Home & Kitchen Product 088,Home & Kitchen,Peak,5326.23,4025.46
+P0089,Electronics Product 089,Electronics,Kairo,46425.81,35474.43
+P0090,Home & Kitchen Product 090,Home & Kitchen,UrbanNest,6039.45,4191.83
+P0091,Fashion Product 091,Fashion,Nova,3402.31,2206.33
+P0092,Sports Product 092,Sports,Peak,6522.4,4244.65
+P0093,Electronics Product 093,Electronics,Peak,38987.79,25974.37
+P0094,Electronics Product 094,Electronics,Vivid,44185.01,28970.81
+P0095,Sports Product 095,Sports,Northstar,10717.73,7310.78
+P0096,Electronics Product 096,Electronics,Northstar,37172.69,26060.62
+P0097,Electronics Product 097,Electronics,Nova,21112.93,13384.29
+P0098,Fashion Product 098,Fashion,Northstar,4863.38,3723.13
+P0099,Electronics Product 099,Electronics,Aster,35084.14,21765.82
+P0100,Electronics Product 100,Electronics,Mira,39841.92,25583.55
+P0101,Home & Kitchen Product 101,Home & Kitchen,Peak,9965.55,6192.05
+P0102,Sports Product 102,Sports,Mira,7083.98,5510.24
+P0103,Sports Product 103,Sports,Kairo,9777.84,6704.7
+P0104,Electronics Product 104,Electronics,Nova,37041.49,24127.5
+P0105,Home & Kitchen Product 105,Home & Kitchen,Aster,15404.5,9843.28
+P0106,Home & Kitchen Product 106,Home & Kitchen,Mira,13809.69,9380.45
+P0107,Home & Kitchen Product 107,Home & Kitchen,Peak,10383.7,8059.24
+P0108,Electronics Product 108,Electronics,Aster,23653.8,16742.07
+P0109,Electronics Product 109,Electronics,Vivid,15159.22,10257.86
+P0110,Sports Product 110,Sports,Mira,5091.03,3453.38
+P0111,Electronics Product 111,Electronics,Vivid,26550.86,16960.0
+P0112,Books Product 112,Books,UrbanNest,548.51,385.45
+P0113,Books Product 113,Books,UrbanNest,1217.95,837.79
+P0114,Home & Kitchen Product 114,Home & Kitchen,UrbanNest,8456.95,6229.53
+P0115,Sports Product 115,Sports,Vivid,3435.82,2235.73
+P0116,Sports Product 116,Sports,Peak,7278.49,4672.6
+P0117,Electronics Product 117,Electronics,UrbanNest,48282.36,34426.95
+P0118,Home & Kitchen Product 118,Home & Kitchen,Nova,8632.27,6376.84
+P0119,Books Product 119,Books,Aster,1501.33,1050.33
+P0120,Electronics Product 120,Electronics,Kairo,51240.68,38246.31
+P0121,Sports Product 121,Sports,Kairo,11554.63,8718.82
+P0122,Sports Product 122,Sports,Aster,9460.61,7253.08
+P0123,Electronics Product 123,Electronics,Nova,49244.92,33511.59
+P0124,Home & Kitchen Product 124,Home & Kitchen,Peak,9263.61,7083.84
+P0125,Beauty Product 125,Beauty,Vivid,2494.52,1829.6
+P0126,Electronics Product 126,Electronics,Mira,24072.51,17331.87
+P0127,Electronics Product 127,Electronics,Northstar,23243.85,16470.68
+P0128,Electronics Product 128,Electronics,Northstar,55164.17,34375.84
+P0129,Fashion Product 129,Fashion,Northstar,4168.16,2957.95
+P0130,Sports Product 130,Sports,Vivid,3827.35,2849.99
+P0131,Home & Kitchen Product 131,Home & Kitchen,Mira,6805.39,5295.54
+P0132,Fashion Product 132,Fashion,Mira,3754.83,2588.2
+P0133,Books Product 133,Books,Peak,1432.76,1115.3
+P0134,Electronics Product 134,Electronics,Aster,53105.18,34378.92
+P0135,Fashion Product 135,Fashion,Mira,2111.09,1632.53
+P0136,Home & Kitchen Product 136,Home & Kitchen,UrbanNest,5070.52,3622.1
+P0137,Electronics Product 137,Electronics,UrbanNest,19656.93,14271.15
+P0138,Electronics Product 138,Electronics,Nova,43404.27,30894.67
+P0139,Home & Kitchen Product 139,Home & Kitchen,Kairo,11108.54,8634.17
+P0140,Beauty Product 140,Beauty,Nova,2603.08,1632.36
+P0141,Home & Kitchen Product 141,Home & Kitchen,Mira,11884.84,8149.13
+P0142,Sports Product 142,Sports,Nova,4056.12,3082.8
+P0143,Electronics Product 143,Electronics,Aster,25529.7,16510.95
+P0144,Electronics Product 144,Electronics,Northstar,28723.03,20425.95
+P0145,Books Product 145,Books,Nova,1264.85,890.17
+P0146,Beauty Product 146,Beauty,UrbanNest,2260.35,1693.43
+P0147,Home & Kitchen Product 147,Home & Kitchen,Aster,16418.01,12591.31
+P0148,Electronics Product 148,Electronics,Northstar,20686.58,13682.39
+P0149,Electronics Product 149,Electronics,Nova,54948.66,40162.14
+P0150,Books Product 150,Books,Northstar,672.48,475.87
+P0151,Electronics Product 151,Electronics,UrbanNest,29237.77,21227.96
+P0152,Electronics Product 152,Electronics,Peak,15893.82,10363.73
+P0153,Sports Product 153,Sports,Peak,5952.18,3950.03
+P0154,Books Product 154,Books,Vivid,647.64,458.51
+P0155,Electronics Product 155,Electronics,Kairo,23785.25,14758.06
+P0156,Fashion Product 156,Fashion,Nova,4278.66,3143.22
+P0157,Electronics Product 157,Electronics,Nova,48130.01,31084.81
+P0158,Sports Product 158,Sports,Kairo,10189.85,7836.08
+P0159,Electronics Product 159,Electronics,Kairo,50219.18,38050.93
+P0160,Beauty Product 160,Beauty,Peak,2587.15,1862.07
+P0161,Fashion Product 161,Fashion,Aster,6188.99,4719.53
+P0162,Books Product 162,Books,Kairo,427.45,332.54
+P0163,Home & Kitchen Product 163,Home & Kitchen,Vivid,16944.77,12606.79
+P0164,Beauty Product 164,Beauty,Vivid,1805.88,1300.71
+P0165,Sports Product 165,Sports,Peak,7665.25,5303.47
+P0166,Home & Kitchen Product 166,Home & Kitchen,Northstar,11679.51,8761.62
+P0167,Electronics Product 167,Electronics,UrbanNest,14768.21,10820.81
+P0168,Fashion Product 168,Fashion,UrbanNest,2433.58,1692.85
+P0169,Home & Kitchen Product 169,Home & Kitchen,Kairo,9994.57,6996.25
+P0170,Sports Product 170,Sports,UrbanNest,10421.94,6843.36
+P0171,Sports Product 171,Sports,Mira,11372.33,8485.74
+P0172,Fashion Product 172,Fashion,Peak,2273.04,1728.72
+P0173,Sports Product 173,Sports,Vivid,5635.22,3508.7
+P0174,Sports Product 174,Sports,Northstar,8889.65,5670.74
+P0175,Home & Kitchen Product 175,Home & Kitchen,Northstar,8904.61,6933.11
+P0176,Sports Product 176,Sports,Vivid,5965.28,3868.47
+P0177,Home & Kitchen Product 177,Home & Kitchen,UrbanNest,9191.09,6781.6
+P0178,Fashion Product 178,Fashion,Kairo,4890.04,3408.04
+P0179,Fashion Product 179,Fashion,Northstar,2513.39,1767.96
+P0180,Home & Kitchen Product 180,Home & Kitchen,Aster,5068.94,3230.64
+P0181,Electronics Product 181,Electronics,Northstar,14549.34,9341.49
+P0182,Home & Kitchen Product 182,Home & Kitchen,Mira,11029.54,7858.17
+P0183,Beauty Product 183,Beauty,Vivid,1417.54,964.52
+P0184,Beauty Product 184,Beauty,Mira,2174.78,1625.85
+P0185,Electronics Product 185,Electronics,Peak,52458.83,40682.69
+P0186,Books Product 186,Books,Nova,761.79,571.32
+P0187,Electronics Product 187,Electronics,Peak,22330.24,15295.02
+P0188,Beauty Product 188,Beauty,Aster,813.83,567.36
+P0189,Books Product 189,Books,Aster,1597.34,1030.4
+P0190,Home & Kitchen Product 190,Home & Kitchen,Vivid,10903.3,7973.7
+P0191,Books Product 191,Books,Aster,1379.54,954.06
+P0192,Sports Product 192,Sports,Aster,11259.04,8525.14
+P0193,Home & Kitchen Product 193,Home & Kitchen,Peak,17038.63,12341.5
+P0194,Fashion Product 194,Fashion,Nova,5636.77,3648.61
+P0195,Electronics Product 195,Electronics,Nova,27103.34,18586.31
+P0196,Electronics Product 196,Electronics,Vivid,38780.64,28244.4
+P0197,Electronics Product 197,Electronics,UrbanNest,55990.17,42399.54
+P0198,Sports Product 198,Sports,Vivid,9135.42,6176.72
+P0199,Fashion Product 199,Fashion,Peak,5208.83,3787.44
+P0200,Beauty Product 200,Beauty,Nova,3013.19,1951.87
+P0201,Beauty Product 201,Beauty,Northstar,2301.18,1759.84
+P0202,Beauty Product 202,Beauty,Mira,2492.69,1774.86
+P0203,Sports Product 203,Sports,Northstar,8709.19,6470.72
+P0204,Beauty Product 204,Beauty,Nova,1632.89,1116.07
+P0205,Electronics Product 205,Electronics,Vivid,25147.95,19376.16
+P0206,Fashion Product 206,Fashion,Nova,4568.45,3358.8
+P0207,Electronics Product 207,Electronics,Aster,56784.55,36602.48
+P0208,Electronics Product 208,Electronics,Nova,53977.14,38217.42
+P0209,Electronics Product 209,Electronics,Kairo,23465.92,15569.18
+P0210,Electronics Product 210,Electronics,Mira,50807.11,38274.9
+P0211,Books Product 211,Books,Vivid,430.65,320.94
+P0212,Home & Kitchen Product 212,Home & Kitchen,Mira,11834.68,8273.95
+P0213,Beauty Product 213,Beauty,Peak,3070.72,2052.19
+P0214,Home & Kitchen Product 214,Home & Kitchen,Aster,16578.48,12540.46
+P0215,Sports Product 215,Sports,Mira,8848.9,6690.45
+P0216,Electronics Product 216,Electronics,Northstar,41651.18,29190.72
+P0217,Books Product 217,Books,Northstar,878.74,645.66
+P0218,Electronics Product 218,Electronics,Aster,45661.18,30395.74
+P0219,Sports Product 219,Sports,Mira,5471.95,3698.03
+P0220,Books Product 220,Books,Aster,446.15,344.0
+P0221,Fashion Product 221,Fashion,Aster,5521.81,4074.02
+P0222,Fashion Product 222,Fashion,Aster,1860.21,1174.8
+P0223,Electronics Product 223,Electronics,Mira,43115.38,29889.19
+P0224,Home & Kitchen Product 224,Home & Kitchen,Kairo,9878.64,6750.26
+P0225,Electronics Product 225,Electronics,Aster,16268.7,10687.86
+P0226,Home & Kitchen Product 226,Home & Kitchen,Peak,6324.64,4928.1
+P0227,Electronics Product 227,Electronics,Vivid,18751.06,12033.05
+P0228,Fashion Product 228,Fashion,Vivid,2588.07,1734.74
+P0229,Books Product 229,Books,Nova,1176.86,889.46
+P0230,Fashion Product 230,Fashion,Aster,4271.19,2738.53
+P0231,Fashion Product 231,Fashion,Aster,3620.62,2462.68
+P0232,Home & Kitchen Product 232,Home & Kitchen,Mira,15087.16,10884.95
+P0233,Electronics Product 233,Electronics,Vivid,46932.97,31628.28
+P0234,Fashion Product 234,Fashion,Mira,4800.79,3290.52
+P0235,Electronics Product 235,Electronics,Kairo,40270.92,28512.54
+P0236,Home & Kitchen Product 236,Home & Kitchen,Nova,13202.61,10198.09
+P0237,Beauty Product 237,Beauty,Aster,1360.62,1033.18
+P0238,Home & Kitchen Product 238,Home & Kitchen,Northstar,7607.21,4852.75
+P0239,Electronics Product 239,Electronics,Nova,27278.58,19398.04
+P0240,Electronics Product 240,Electronics,Northstar,46413.91,33628.15
+P0241,Fashion Product 241,Fashion,Mira,3617.5,2431.4
+P0242,Electronics Product 242,Electronics,Mira,55850.56,36988.24
+P0243,Sports Product 243,Sports,UrbanNest,3529.91,2526.14
+P0244,Home & Kitchen Product 244,Home & Kitchen,Peak,9189.11,6307.37
+P0245,Fashion Product 245,Fashion,Northstar,2306.08,1763.71
+P0246,Beauty Product 246,Beauty,Nova,2793.66,1805.18
+P0247,Electronics Product 247,Electronics,Vivid,35119.1,22004.69
+P0248,Fashion Product 248,Fashion,UrbanNest,4504.58,3441.22
+P0249,Electronics Product 249,Electronics,Vivid,40231.42,30711.86
+P0250,Electronics Product 250,Electronics,Northstar,17815.66,12233.71
+P0251,Home & Kitchen Product 251,Home & Kitchen,Mira,14326.44,10610.48
+P0252,Electronics Product 252,Electronics,Peak,49909.4,37697.29
+P0253,Books Product 253,Books,UrbanNest,1143.04,755.3
+P0254,Fashion Product 254,Fashion,Aster,2902.48,2103.46
+P0255,Beauty Product 255,Beauty,Northstar,2569.54,1896.18
+P0256,Electronics Product 256,Electronics,Kairo,44668.76,30249.63
+P0257,Fashion Product 257,Fashion,Peak,5886.75,4540.8
+P0258,Sports Product 258,Sports,Kairo,4258.8,3299.48
+P0259,Electronics Product 259,Electronics,Peak,53703.52,37478.42
+P0260,Fashion Product 260,Fashion,Peak,5766.42,3645.3
+P0261,Beauty Product 261,Beauty,Aster,1532.99,1175.86
+P0262,Beauty Product 262,Beauty,Vivid,2550.36,1794.63
+P0263,Books Product 263,Books,Vivid,725.41,465.87
+P0264,Electronics Product 264,Electronics,Peak,24556.14,18101.2
+P0265,Beauty Product 265,Beauty,Vivid,2368.93,1729.19
+P0266,Books Product 266,Books,Vivid,465.79,299.21
+P0267,Sports Product 267,Sports,Northstar,4061.71,2696.88
+P0268,Electronics Product 268,Electronics,Aster,42918.2,32544.09
+P0269,Home & Kitchen Product 269,Home & Kitchen,Vivid,16482.72,12776.31
+P0270,Electronics Product 270,Electronics,Peak,15870.48,10868.74
+P0271,Electronics Product 271,Electronics,UrbanNest,15390.08,9873.26
+P0272,Beauty Product 272,Beauty,Peak,991.7,670.7
+P0273,Books Product 273,Books,Northstar,407.02,285.41
+P0274,Beauty Product 274,Beauty,Mira,3065.8,2048.16
+P0275,Electronics Product 275,Electronics,Nova,34878.61,25036.15
+P0276,Sports Product 276,Sports,Aster,9690.47,6020.38
+P0277,Home & Kitchen Product 277,Home & Kitchen,UrbanNest,9615.16,7217.49
+P0278,Home & Kitchen Product 278,Home & Kitchen,UrbanNest,17064.67,12886.3
+P0279,Home & Kitchen Product 279,Home & Kitchen,Aster,10430.12,7774.2
+P0280,Books Product 280,Books,Peak,1546.21,1033.72
+P0281,Fashion Product 281,Fashion,Vivid,4644.41,3349.45
+P0282,Beauty Product 282,Beauty,Kairo,3113.0,2111.97
+P0283,Electronics Product 283,Electronics,Northstar,35790.12,24419.02
+P0284,Home & Kitchen Product 284,Home & Kitchen,Peak,15546.64,11402.78
+P0285,Sports Product 285,Sports,Northstar,6305.23,4760.24
+P0286,Sports Product 286,Sports,UrbanNest,9398.32,7076.55
+P0287,Beauty Product 287,Beauty,Nova,2309.76,1517.45
+P0288,Electronics Product 288,Electronics,Vivid,35431.32,25697.79
+P0289,Electronics Product 289,Electronics,Peak,36064.05,23900.77
+P0290,Beauty Product 290,Beauty,UrbanNest,1223.39,881.51
+P0291,Home & Kitchen Product 291,Home & Kitchen,Mira,15894.8,10788.64
+P0292,Home & Kitchen Product 292,Home & Kitchen,Vivid,10100.24,7538.75
+P0293,Beauty Product 293,Beauty,Vivid,1178.07,907.11
+P0294,Fashion Product 294,Fashion,Northstar,4902.95,3267.31
+P0295,Fashion Product 295,Fashion,UrbanNest,5010.84,3803.28
+P0296,Electronics Product 296,Electronics,Vivid,16349.06,12072.15
+P0297,Sports Product 297,Sports,Mira,6295.15,4473.11
+P0298,Home & Kitchen Product 298,Home & Kitchen,Vivid,11768.14,8284.71
+P0299,Sports Product 299,Sports,Kairo,10913.96,7324.24
+P0300,Sports Product 300,Sports,Aster,6085.22,3970.76
+P0301,Electronics Product 301,Electronics,Northstar,27345.09,17318.79
+P0302,Home & Kitchen Product 302,Home & Kitchen,Northstar,13721.48,10071.45
+P0303,Home & Kitchen Product 303,Home & Kitchen,Mira,7086.3,4645.71
+P0304,Home & Kitchen Product 304,Home & Kitchen,Mira,15766.18,11024.69
+P0305,Electronics Product 305,Electronics,Nova,48545.95,37009.99
+P0306,Beauty Product 306,Beauty,Peak,2980.12,2167.67
+P0307,Electronics Product 307,Electronics,Mira,29681.82,19206.44
+P0308,Home & Kitchen Product 308,Home & Kitchen,Kairo,6400.56,4720.49
+P0309,Sports Product 309,Sports,Aster,8678.8,5679.18
+P0310,Fashion Product 310,Fashion,Vivid,2472.6,1841.56
+P0311,Home & Kitchen Product 311,Home & Kitchen,UrbanNest,7687.9,4862.09
+P0312,Electronics Product 312,Electronics,Northstar,31704.52,20375.65
+P0313,Electronics Product 313,Electronics,Vivid,34389.87,26461.99
+P0314,Electronics Product 314,Electronics,UrbanNest,28328.26,18833.92
+P0315,Electronics Product 315,Electronics,Peak,26699.9,17197.45
+P0316,Sports Product 316,Sports,Mira,5481.57,3587.06
+P0317,Home & Kitchen Product 317,Home & Kitchen,UrbanNest,13125.99,8896.48
+P0318,Electronics Product 318,Electronics,Nova,27613.95,20821.43
+P0319,Sports Product 319,Sports,Aster,9712.06,6258.48
+P0320,Electronics Product 320,Electronics,Nova,46492.62,28942.59
+P0321,Beauty Product 321,Beauty,Aster,2545.58,1930.56
+P0322,Sports Product 322,Sports,Aster,11791.43,7876.03
+P0323,Sports Product 323,Sports,Vivid,12169.89,7695.1
+P0324,Electronics Product 324,Electronics,Vivid,20744.38,12953.68
+P0325,Home & Kitchen Product 325,Home & Kitchen,Kairo,8386.53,6406.74
+P0326,Home & Kitchen Product 326,Home & Kitchen,Vivid,14376.83,10117.01
+P0327,Books Product 327,Books,Nova,1354.89,972.38
+P0328,Electronics Product 328,Electronics,Northstar,17464.74,12549.62
+P0329,Home & Kitchen Product 329,Home & Kitchen,Peak,16613.13,11688.18
+P0330,Fashion Product 330,Fashion,Nova,5620.57,4176.54
+P0331,Sports Product 331,Sports,Northstar,11647.48,8910.02
+P0332,Sports Product 332,Sports,Northstar,5081.44,3671.71
+P0333,Beauty Product 333,Beauty,Peak,2027.24,1530.61
+P0334,Home & Kitchen Product 334,Home & Kitchen,Nova,9924.95,6168.74
+P0335,Electronics Product 335,Electronics,Aster,29964.9,20880.44
+P0336,Beauty Product 336,Beauty,Kairo,1362.47,976.41
+P0337,Electronics Product 337,Electronics,Nova,20431.0,13325.04
+P0338,Fashion Product 338,Fashion,UrbanNest,5688.15,3672.54
+P0339,Electronics Product 339,Electronics,Northstar,37314.82,23948.61
+P0340,Electronics Product 340,Electronics,Peak,40355.71,26859.6
+P0341,Home & Kitchen Product 341,Home & Kitchen,Kairo,7630.03,5735.84
+P0342,Beauty Product 342,Beauty,UrbanNest,3082.18,1924.59
+P0343,Electronics Product 343,Electronics,Mira,54851.47,39294.96
+P0344,Electronics Product 344,Electronics,UrbanNest,43406.64,27385.45
+P0345,Electronics Product 345,Electronics,Aster,28247.89,20194.74
+P0346,Electronics Product 346,Electronics,Northstar,24458.87,16151.49
+P0347,Electronics Product 347,Electronics,Northstar,40115.72,25881.65
+P0348,Beauty Product 348,Beauty,Mira,2833.9,1968.24
+P0349,Sports Product 349,Sports,Aster,12288.0,8072.93
+P0350,Electronics Product 350,Electronics,Vivid,17345.83,11804.23
+P0351,Electronics Product 351,Electronics,Northstar,28837.29,20799.99
+P0352,Electronics Product 352,Electronics,Peak,31297.65,24092.83
+P0353,Home & Kitchen Product 353,Home & Kitchen,UrbanNest,9007.75,6475.23
+P0354,Electronics Product 354,Electronics,UrbanNest,43247.93,30322.46
+P0355,Beauty Product 355,Beauty,Aster,2139.71,1517.31
+P0356,Electronics Product 356,Electronics,Vivid,52907.36,36798.91
+P0357,Home & Kitchen Product 357,Home & Kitchen,Kairo,7129.22,5062.1
+P0358,Sports Product 358,Sports,Peak,6923.69,4924.32
+P0359,Electronics Product 359,Electronics,Aster,37778.1,26397.49
+P0360,Fashion Product 360,Fashion,Kairo,5434.36,4054.79
+P0361,Fashion Product 361,Fashion,Mira,5464.81,3729.84
+P0362,Electronics Product 362,Electronics,Vivid,51524.88,32840.29
+P0363,Beauty Product 363,Beauty,Aster,2071.5,1497.46
+P0364,Home & Kitchen Product 364,Home & Kitchen,Peak,7373.51,5510.78
+P0365,Electronics Product 365,Electronics,Vivid,45774.24,34092.78
+P0366,Sports Product 366,Sports,Mira,12171.66,8037.45
+P0367,Fashion Product 367,Fashion,Peak,2923.04,2114.89
+P0368,Electronics Product 368,Electronics,Aster,22970.08,17911.47
+P0369,Home & Kitchen Product 369,Home & Kitchen,Northstar,4563.25,2905.56
+P0370,Beauty Product 370,Beauty,Northstar,2429.52,1709.51
+P0371,Sports Product 371,Sports,Nova,8300.39,5551.82
+P0372,Home & Kitchen Product 372,Home & Kitchen,Peak,6002.71,4481.6
+P0373,Home & Kitchen Product 373,Home & Kitchen,Aster,6833.79,4592.01
+P0374,Sports Product 374,Sports,Aster,9408.0,6937.21
+P0375,Sports Product 375,Sports,UrbanNest,7270.37,4694.28
+P0376,Electronics Product 376,Electronics,Aster,24475.58,15437.11
+P0377,Electronics Product 377,Electronics,UrbanNest,40571.56,25830.14
+P0378,Home & Kitchen Product 378,Home & Kitchen,Northstar,4950.44,3275.44
+P0379,Fashion Product 379,Fashion,Peak,1651.56,1248.45
+P0380,Fashion Product 380,Fashion,Nova,2807.65,1808.32
+P0381,Sports Product 381,Sports,Vivid,5885.95,3680.73
+P0382,Sports Product 382,Sports,Kairo,4136.28,3129.32
+P0383,Home & Kitchen Product 383,Home & Kitchen,Vivid,5748.16,3908.64
+P0384,Beauty Product 384,Beauty,UrbanNest,1217.76,869.72
+P0385,Beauty Product 385,Beauty,Kairo,2570.8,1628.36
+P0386,Beauty Product 386,Beauty,UrbanNest,2768.98,2118.75
+P0387,Beauty Product 387,Beauty,Aster,1251.3,876.8
+P0388,Beauty Product 388,Beauty,Northstar,2405.95,1526.17
+P0389,Electronics Product 389,Electronics,Northstar,24493.79,17670.06
+P0390,Home & Kitchen Product 390,Home & Kitchen,Nova,15561.75,10558.5
+P0391,Home & Kitchen Product 391,Home & Kitchen,Peak,7724.0,5225.63
+P0392,Home & Kitchen Product 392,Home & Kitchen,Aster,5939.32,4070.3
+P0393,Beauty Product 393,Beauty,Peak,1877.12,1316.42
+P0394,Electronics Product 394,Electronics,Peak,21062.0,15145.52
+P0395,Electronics Product 395,Electronics,UrbanNest,22969.45,14779.14
+P0396,Electronics Product 396,Electronics,Vivid,29047.51,21515.45
+P0397,Electronics Product 397,Electronics,Northstar,42943.13,26811.24
+P0398,Home & Kitchen Product 398,Home & Kitchen,Peak,5773.65,4225.55
+P0399,Electronics Product 399,Electronics,Kairo,26673.51,17319.85
+P0400,Electronics Product 400,Electronics,Peak,51481.35,35598.93
+P0401,Home & Kitchen Product 401,Home & Kitchen,Peak,7786.09,5526.94
+P0402,Sports Product 402,Sports,Northstar,4741.82,3431.09
+P0403,Sports Product 403,Sports,Nova,8192.68,6116.37
+P0404,Electronics Product 404,Electronics,Kairo,15839.25,11128.52
+P0405,Books Product 405,Books,Vivid,1381.8,1051.3
+P0406,Electronics Product 406,Electronics,UrbanNest,24010.34,18555.39
+P0407,Sports Product 407,Sports,Nova,4405.51,3419.41
+P0408,Beauty Product 408,Beauty,Kairo,2773.93,1861.67
+P0409,Beauty Product 409,Beauty,Aster,2857.89,1786.6
+P0410,Home & Kitchen Product 410,Home & Kitchen,Aster,13697.93,10061.51
+P0411,Electronics Product 411,Electronics,Vivid,24534.58,16200.27
+P0412,Fashion Product 412,Fashion,Peak,4065.02,3019.62
+P0413,Sports Product 413,Sports,Nova,12307.67,7640.6
+P0414,Fashion Product 414,Fashion,Peak,3832.44,2852.67
+P0415,Home & Kitchen Product 415,Home & Kitchen,Kairo,16454.13,10386.23
+P0416,Beauty Product 416,Beauty,Peak,2453.58,1866.43
+P0417,Beauty Product 417,Beauty,Vivid,2863.34,2073.66
+P0418,Fashion Product 418,Fashion,Aster,2484.09,1604.41
+P0419,Books Product 419,Books,Northstar,1530.98,1073.6
+P0420,Home & Kitchen Product 420,Home & Kitchen,Nova,15219.14,10666.06
+P0421,Electronics Product 421,Electronics,Nova,48314.15,36749.97
+P0422,Sports Product 422,Sports,UrbanNest,12044.56,8493.51
+P0423,Sports Product 423,Sports,Peak,10604.91,7509.09
+P0424,Home & Kitchen Product 424,Home & Kitchen,UrbanNest,11671.78,7832.23
+P0425,Electronics Product 425,Electronics,Kairo,42423.42,31247.42
+P0426,Sports Product 426,Sports,Peak,10907.45,6850.4
+P0427,Electronics Product 427,Electronics,Aster,46763.62,36235.84
+P0428,Fashion Product 428,Fashion,Peak,4371.22,3134.17
+P0429,Beauty Product 429,Beauty,Aster,2263.33,1709.51
+P0430,Electronics Product 430,Electronics,Nova,52428.19,39057.47
+P0431,Fashion Product 431,Fashion,Vivid,1621.83,1062.14
+P0432,Electronics Product 432,Electronics,Vivid,45415.59,30258.24
+P0433,Home & Kitchen Product 433,Home & Kitchen,Northstar,11529.6,7661.21
+P0434,Beauty Product 434,Beauty,Peak,2847.05,1867.9
+P0435,Electronics Product 435,Electronics,Kairo,23274.88,14489.66
+P0436,Electronics Product 436,Electronics,Aster,37094.84,27906.9
+P0437,Books Product 437,Books,Peak,560.09,395.46
+P0438,Electronics Product 438,Electronics,Nova,42884.99,30645.16
+P0439,Home & Kitchen Product 439,Home & Kitchen,Aster,14070.32,9830.55
+P0440,Home & Kitchen Product 440,Home & Kitchen,Vivid,12271.8,7852.7
+P0441,Electronics Product 441,Electronics,Aster,38366.12,26464.05
+P0442,Electronics Product 442,Electronics,Vivid,29233.97,19498.51
+P0443,Fashion Product 443,Fashion,Kairo,4597.98,3507.01
+P0444,Home & Kitchen Product 444,Home & Kitchen,Kairo,15811.16,11576.83
+P0445,Home & Kitchen Product 445,Home & Kitchen,Northstar,13527.19,8738.91
+P0446,Sports Product 446,Sports,Nova,3366.91,2465.61
+P0447,Electronics Product 447,Electronics,Northstar,36376.77,25745.25
+P0448,Home & Kitchen Product 448,Home & Kitchen,Vivid,13719.55,8685.41
+P0449,Books Product 449,Books,Peak,1017.56,642.21
+P0450,Fashion Product 450,Fashion,Peak,4369.13,2811.93
+P0451,Sports Product 451,Sports,Nova,11764.47,8819.58
+P0452,Home & Kitchen Product 452,Home & Kitchen,Kairo,15483.41,11655.78
+P0453,Beauty Product 453,Beauty,Kairo,1007.59,722.75
+P0454,Sports Product 454,Sports,Northstar,7974.73,4964.27
+P0455,Electronics Product 455,Electronics,Vivid,41284.06,27690.85
+P0456,Home & Kitchen Product 456,Home & Kitchen,Nova,15202.3,10400.58
+P0457,Electronics Product 457,Electronics,Northstar,25869.63,17216.28
+P0458,Books Product 458,Books,Mira,574.92,409.91
+P0459,Sports Product 459,Sports,Nova,8793.11,5539.25
+P0460,Home & Kitchen Product 460,Home & Kitchen,UrbanNest,10272.13,6401.54
+P0461,Home & Kitchen Product 461,Home & Kitchen,Mira,7580.07,5412.61
+P0462,Beauty Product 462,Beauty,Mira,3101.32,2054.08
+P0463,Home & Kitchen Product 463,Home & Kitchen,Peak,8347.66,6092.5
+P0464,Fashion Product 464,Fashion,UrbanNest,1836.23,1366.92
+P0465,Beauty Product 465,Beauty,UrbanNest,952.88,683.95
+P0466,Beauty Product 466,Beauty,Peak,1298.63,1010.79
+P0467,Home & Kitchen Product 467,Home & Kitchen,UrbanNest,5772.14,4172.5
+P0468,Fashion Product 468,Fashion,Vivid,3439.9,2558.05
+P0469,Electronics Product 469,Electronics,Aster,17876.08,12916.59
+P0470,Books Product 470,Books,Aster,1086.82,813.89
+P0471,Electronics Product 471,Electronics,Aster,32042.5,21868.89
+P0472,Sports Product 472,Sports,Northstar,8800.39,6067.84
+P0473,Home & Kitchen Product 473,Home & Kitchen,Mira,16961.96,11426.09
+P0474,Beauty Product 474,Beauty,Aster,3220.32,2293.63
+P0475,Electronics Product 475,Electronics,Mira,32415.65,22040.79
+P0476,Electronics Product 476,Electronics,Nova,30256.73,23541.49
+P0477,Beauty Product 477,Beauty,Aster,2466.17,1766.96
+P0478,Home & Kitchen Product 478,Home & Kitchen,UrbanNest,8990.49,6057.0
+P0479,Electronics Product 479,Electronics,UrbanNest,48021.76,33677.98
+P0480,Electronics Product 480,Electronics,Mira,40391.11,30087.26
+P0481,Beauty Product 481,Beauty,Aster,1294.75,969.74
+P0482,Sports Product 482,Sports,Mira,7070.18,5104.22
+P0483,Sports Product 483,Sports,Kairo,11311.57,7017.39
+P0484,Beauty Product 484,Beauty,Peak,2154.65,1635.33
+P0485,Beauty Product 485,Beauty,Northstar,2535.1,1940.79
+P0486,Home & Kitchen Product 486,Home & Kitchen,Vivid,13378.84,10160.75
+P0487,Electronics Product 487,Electronics,Mira,35229.11,25624.9
+P0488,Sports Product 488,Sports,Nova,5942.39,3710.05
+P0489,Sports Product 489,Sports,Mira,8785.4,6783.43
+P0490,Electronics Product 490,Electronics,Peak,19284.11,12165.37
+P0491,Beauty Product 491,Beauty,Mira,2261.61,1456.29
+P0492,Electronics Product 492,Electronics,Mira,18838.31,13572.33
+P0493,Home & Kitchen Product 493,Home & Kitchen,Kairo,15840.56,10991.6
+P0494,Home & Kitchen Product 494,Home & Kitchen,Kairo,13815.15,10233.73
+P0495,Beauty Product 495,Beauty,Peak,1250.34,901.87
+P0496,Electronics Product 496,Electronics,Northstar,48297.33,29976.72
+P0497,Home & Kitchen Product 497,Home & Kitchen,Nova,13584.06,9819.24
+P0498,Home & Kitchen Product 498,Home & Kitchen,UrbanNest,13617.3,10312.59
+P0499,Books Product 499,Books,Northstar,812.37,614.43
+P0500,Home & Kitchen Product 500,Home & Kitchen,Kairo,10979.15,7083.59
+P0501,Home & Kitchen Product 501,Home & Kitchen,UrbanNest,11787.56,7963.41
+P0502,Books Product 502,Books,Mira,863.03,551.58
+P0503,Sports Product 503,Sports,Northstar,8445.77,6251.87
+P0504,Electronics Product 504,Electronics,Mira,24941.51,17968.11
+P0505,Electronics Product 505,Electronics,Peak,52195.02,36406.52
+P0506,Sports Product 506,Sports,Vivid,12225.18,8165.95
+P0507,Home & Kitchen Product 507,Home & Kitchen,Northstar,8465.35,6314.61
+P0508,Electronics Product 508,Electronics,Nova,29191.58,21795.29
+P0509,Home & Kitchen Product 509,Home & Kitchen,UrbanNest,7047.89,4923.58
+P0510,Books Product 510,Books,Mira,1455.71,931.52
+P0511,Fashion Product 511,Fashion,Northstar,2346.88,1629.81
+P0512,Sports Product 512,Sports,Vivid,10699.22,8167.47
+P0513,Electronics Product 513,Electronics,Aster,50356.6,35927.1
+P0514,Electronics Product 514,Electronics,Aster,28060.66,20782.85
+P0515,Books Product 515,Books,Vivid,1348.8,899.85
+P0516,Sports Product 516,Sports,Aster,7430.59,5014.95
+P0517,Electronics Product 517,Electronics,Nova,29453.15,18812.89
+P0518,Fashion Product 518,Fashion,Vivid,5796.21,3911.57
+P0519,Electronics Product 519,Electronics,Mira,33992.41,21997.79
+P0520,Home & Kitchen Product 520,Home & Kitchen,Kairo,4983.32,3519.4
+P0521,Electronics Product 521,Electronics,Peak,41811.32,28557.5
+P0522,Beauty Product 522,Beauty,Mira,2408.95,1815.67
+P0523,Fashion Product 523,Fashion,Vivid,4573.72,3115.79
+P0524,Home & Kitchen Product 524,Home & Kitchen,Mira,8896.09,5817.81
+P0525,Home & Kitchen Product 525,Home & Kitchen,Nova,12978.24,8221.42
+P0526,Beauty Product 526,Beauty,Vivid,1517.36,1002.08
+P0527,Electronics Product 527,Electronics,Mira,34460.45,25210.51
+P0528,Electronics Product 528,Electronics,Mira,23761.73,17113.13
+P0529,Beauty Product 529,Beauty,Kairo,2300.2,1654.28
+P0530,Beauty Product 530,Beauty,Nova,2779.52,2104.95
+P0531,Electronics Product 531,Electronics,Vivid,18619.2,12297.04
+P0532,Electronics Product 532,Electronics,Aster,15566.93,10824.1
+P0533,Fashion Product 533,Fashion,Peak,5171.36,3345.4
+P0534,Electronics Product 534,Electronics,Aster,28348.41,18568.41
+P0535,Sports Product 535,Sports,Kairo,6210.15,4218.85
+P0536,Fashion Product 536,Fashion,Kairo,4243.39,3110.97
+P0537,Sports Product 537,Sports,Aster,7749.67,5838.55
+P0538,Home & Kitchen Product 538,Home & Kitchen,Mira,5834.01,3903.85
+P0539,Fashion Product 539,Fashion,Kairo,5168.06,3533.1
+P0540,Beauty Product 540,Beauty,Kairo,1238.34,943.65
+P0541,Fashion Product 541,Fashion,Peak,5477.98,4080.21
+P0542,Home & Kitchen Product 542,Home & Kitchen,Mira,14077.76,10283.15
+P0543,Books Product 543,Books,Mira,608.18,416.69
+P0544,Home & Kitchen Product 544,Home & Kitchen,Vivid,13999.09,9443.36
+P0545,Electronics Product 545,Electronics,Peak,42952.59,31602.31
+P0546,Electronics Product 546,Electronics,Kairo,56814.63,36073.44
+P0547,Home & Kitchen Product 547,Home & Kitchen,Aster,13404.21,9476.17
+P0548,Electronics Product 548,Electronics,UrbanNest,31257.39,19683.68
+P0549,Fashion Product 549,Fashion,Aster,4504.77,3242.24
+P0550,Electronics Product 550,Electronics,Kairo,42992.88,30565.61
+P0551,Home & Kitchen Product 551,Home & Kitchen,Aster,13837.97,8711.93
+P0552,Beauty Product 552,Beauty,Kairo,1948.76,1339.15
+P0553,Electronics Product 553,Electronics,Vivid,50156.4,32641.38
+P0554,Sports Product 554,Sports,Peak,5861.6,4382.72
+P0555,Books Product 555,Books,Northstar,1575.46,1207.0
+P0556,Electronics Product 556,Electronics,Aster,27810.6,18642.79
+P0557,Home & Kitchen Product 557,Home & Kitchen,Kairo,4756.53,2971.36
+P0558,Electronics Product 558,Electronics,UrbanNest,23045.83,17598.37
+P0559,Sports Product 559,Sports,Kairo,11914.31,8996.78
+P0560,Home & Kitchen Product 560,Home & Kitchen,Mira,14407.41,10769.48
+P0561,Books Product 561,Books,Vivid,938.84,635.61
+P0562,Sports Product 562,Sports,Vivid,11703.72,7405.56
+P0563,Sports Product 563,Sports,Mira,5480.68,4252.89
+P0564,Beauty Product 564,Beauty,Peak,1377.55,962.83
+P0565,Electronics Product 565,Electronics,Peak,19971.0,13521.52
+P0566,Fashion Product 566,Fashion,Mira,3665.49,2728.42
+P0567,Fashion Product 567,Fashion,Peak,4004.24,2912.33
+P0568,Sports Product 568,Sports,UrbanNest,4521.58,2833.67
+P0569,Sports Product 569,Sports,Aster,4233.02,3273.58
+P0570,Electronics Product 570,Electronics,UrbanNest,31267.52,22167.74
+P0571,Fashion Product 571,Fashion,Nova,2674.12,1738.49
+P0572,Sports Product 572,Sports,Kairo,8576.79,5339.52
+P0573,Fashion Product 573,Fashion,Vivid,4052.48,2870.61
+P0574,Beauty Product 574,Beauty,UrbanNest,1204.83,861.51
+P0575,Sports Product 575,Sports,Mira,3275.47,2083.0
+P0576,Books Product 576,Books,Peak,1188.42,840.44
+P0577,Electronics Product 577,Electronics,Peak,47788.65,32930.0
+P0578,Electronics Product 578,Electronics,Northstar,35493.38,24491.15
+P0579,Electronics Product 579,Electronics,UrbanNest,39261.64,30468.68
+P0580,Electronics Product 580,Electronics,Peak,55945.93,37335.05
+P0581,Sports Product 581,Sports,Northstar,10404.8,7922.9
+P0582,Electronics Product 582,Electronics,UrbanNest,28820.59,19457.45
+P0583,Sports Product 583,Sports,Peak,11185.35,7256.16
+P0584,Books Product 584,Books,Aster,1071.42,690.38
+P0585,Fashion Product 585,Fashion,Kairo,4041.14,3113.71
+P0586,Home & Kitchen Product 586,Home & Kitchen,Kairo,13148.26,8200.92
+P0587,Books Product 587,Books,Northstar,926.82,607.13
+P0588,Fashion Product 588,Fashion,Vivid,5736.65,3869.23
+P0589,Fashion Product 589,Fashion,Mira,2365.42,1715.14
+P0590,Electronics Product 590,Electronics,Kairo,32626.65,22190.3
+P0591,Sports Product 591,Sports,Peak,3762.96,2345.33
+P0592,Electronics Product 592,Electronics,Vivid,44873.03,31532.89
+P0593,Electronics Product 593,Electronics,Mira,26076.75,19857.82
+P0594,Electronics Product 594,Electronics,Nova,32778.35,24972.23
+P0595,Fashion Product 595,Fashion,Kairo,5763.06,4487.44
+P0596,Electronics Product 596,Electronics,UrbanNest,22447.54,15147.21
+P0597,Home & Kitchen Product 597,Home & Kitchen,Aster,4303.88,2752.74
+P0598,Sports Product 598,Sports,Peak,8613.23,5436.03
+P0599,Electronics Product 599,Electronics,Vivid,33301.95,25267.34
+P0600,Home & Kitchen Product 600,Home & Kitchen,Northstar,4979.87,3683.68
+P0601,Beauty Product 601,Beauty,Nova,1529.88,1102.14
+P0602,Beauty Product 602,Beauty,Vivid,1391.03,973.0
+P0603,Beauty Product 603,Beauty,Northstar,1443.3,1000.46
+P0604,Fashion Product 604,Fashion,Northstar,5306.15,3709.17
+P0605,Electronics Product 605,Electronics,Kairo,27565.19,18695.13
+P0606,Electronics Product 606,Electronics,Kairo,35551.86,24742.26
+P0607,Home & Kitchen Product 607,Home & Kitchen,Peak,7680.3,5020.25
+P0608,Beauty Product 608,Beauty,UrbanNest,3119.81,1993.07
+P0609,Electronics Product 609,Electronics,Mira,47846.04,31282.09
+P0610,Electronics Product 610,Electronics,Mira,32685.81,25343.08
+P0611,Fashion Product 611,Fashion,Nova,5010.0,3900.33
+P0612,Sports Product 612,Sports,Peak,6125.1,4534.06
+P0613,Home & Kitchen Product 613,Home & Kitchen,Kairo,5329.6,4018.26
+P0614,Beauty Product 614,Beauty,Northstar,1856.17,1181.58
+P0615,Sports Product 615,Sports,Kairo,8485.33,5427.93
+P0616,Beauty Product 616,Beauty,Nova,1658.93,1053.13
+P0617,Home & Kitchen Product 617,Home & Kitchen,Mira,9424.73,5938.63
+P0618,Home & Kitchen Product 618,Home & Kitchen,Nova,13437.55,9938.07
+P0619,Electronics Product 619,Electronics,Aster,53083.33,33390.71
+P0620,Home & Kitchen Product 620,Home & Kitchen,Northstar,15741.91,12150.34
+P0621,Electronics Product 621,Electronics,Mira,39269.89,28456.77
+P0622,Electronics Product 622,Electronics,UrbanNest,41593.98,26925.46
+P0623,Electronics Product 623,Electronics,Nova,37417.45,28093.16
+P0624,Home & Kitchen Product 624,Home & Kitchen,Mira,9036.1,6793.26
+P0625,Electronics Product 625,Electronics,Aster,46288.5,32875.12
+P0626,Electronics Product 626,Electronics,Northstar,19205.8,12187.18
+P0627,Home & Kitchen Product 627,Home & Kitchen,Nova,15740.73,10768.62
+P0628,Electronics Product 628,Electronics,Northstar,26656.68,18866.69
+P0629,Electronics Product 629,Electronics,Aster,23853.12,17627.63
+P0630,Books Product 630,Books,Peak,737.9,492.74
+P0631,Home & Kitchen Product 631,Home & Kitchen,Peak,14685.27,11156.48
+P0632,Fashion Product 632,Fashion,Mira,2845.53,1878.39
+P0633,Electronics Product 633,Electronics,Northstar,40732.07,31759.27
+P0634,Home & Kitchen Product 634,Home & Kitchen,Mira,8676.0,5538.84
+P0635,Electronics Product 635,Electronics,Vivid,42756.64,32207.38
+P0636,Home & Kitchen Product 636,Home & Kitchen,UrbanNest,11862.61,7605.77
+P0637,Fashion Product 637,Fashion,Peak,6289.45,4663.56
+P0638,Beauty Product 638,Beauty,Vivid,1565.62,1186.69
+P0639,Home & Kitchen Product 639,Home & Kitchen,Vivid,8761.28,5870.64
+P0640,Electronics Product 640,Electronics,Mira,22986.76,14624.49
+P0641,Fashion Product 641,Fashion,Mira,3766.97,2938.18
+P0642,Sports Product 642,Sports,Aster,11063.05,8577.94
+P0643,Home & Kitchen Product 643,Home & Kitchen,Kairo,6981.05,5173.6
+P0644,Home & Kitchen Product 644,Home & Kitchen,UrbanNest,16605.08,11321.98
+P0645,Home & Kitchen Product 645,Home & Kitchen,Vivid,4443.74,2850.68
+P0646,Electronics Product 646,Electronics,Mira,49182.43,33782.82
+P0647,Home & Kitchen Product 647,Home & Kitchen,Mira,13145.1,9665.0
+P0648,Electronics Product 648,Electronics,Peak,53506.95,34478.71
+P0649,Sports Product 649,Sports,Aster,8081.13,5032.02
+P0650,Home & Kitchen Product 650,Home & Kitchen,Mira,13008.37,9946.79
+P0651,Home & Kitchen Product 651,Home & Kitchen,Mira,4908.86,3593.28
+P0652,Electronics Product 652,Electronics,Peak,31436.14,22980.27
+P0653,Sports Product 653,Sports,Nova,10433.11,8049.66
+P0654,Home & Kitchen Product 654,Home & Kitchen,Vivid,5672.69,3989.68
+P0655,Electronics Product 655,Electronics,Kairo,48199.57,32336.72
+P0656,Home & Kitchen Product 656,Home & Kitchen,Peak,8228.61,6299.07
+P0657,Electronics Product 657,Electronics,Aster,29649.13,23059.01
+P0658,Home & Kitchen Product 658,Home & Kitchen,Peak,12577.58,7839.27
+P0659,Home & Kitchen Product 659,Home & Kitchen,Vivid,5277.45,3551.24
+P0660,Home & Kitchen Product 660,Home & Kitchen,Mira,12285.83,8329.61
+P0661,Home & Kitchen Product 661,Home & Kitchen,Kairo,15993.51,10200.6
+P0662,Electronics Product 662,Electronics,Northstar,18450.62,12093.49
+P0663,Home & Kitchen Product 663,Home & Kitchen,Peak,7519.69,4691.63
+P0664,Electronics Product 664,Electronics,Mira,14991.04,10964.85
+P0665,Books Product 665,Books,Nova,1034.36,659.0
+P0666,Sports Product 666,Sports,UrbanNest,10057.57,7664.07
+P0667,Sports Product 667,Sports,Kairo,11904.46,8493.07
+P0668,Electronics Product 668,Electronics,Mira,30298.88,20511.9
+P0669,Beauty Product 669,Beauty,Kairo,1171.47,877.93
+P0670,Sports Product 670,Sports,Northstar,3424.85,2479.96
+P0671,Home & Kitchen Product 671,Home & Kitchen,Mira,8443.2,6252.05
+P0672,Fashion Product 672,Fashion,Nova,3995.28,3038.19
+P0673,Electronics Product 673,Electronics,Northstar,53313.41,39943.81
+P0674,Books Product 674,Books,Peak,667.99,497.43
+P0675,Electronics Product 675,Electronics,Vivid,48152.12,35477.28
+P0676,Beauty Product 676,Beauty,Nova,1978.64,1346.26
+P0677,Books Product 677,Books,Peak,1459.06,1056.79
+P0678,Home & Kitchen Product 678,Home & Kitchen,Nova,15343.81,10901.96
+P0679,Beauty Product 679,Beauty,Northstar,2894.2,2240.55
+P0680,Electronics Product 680,Electronics,Mira,31738.11,22221.43
+P0681,Sports Product 681,Sports,Aster,6421.68,4209.35
+P0682,Home & Kitchen Product 682,Home & Kitchen,Mira,6933.48,4806.54
+P0683,Home & Kitchen Product 683,Home & Kitchen,Northstar,7204.6,4944.83
+P0684,Home & Kitchen Product 684,Home & Kitchen,Aster,12178.14,8463.35
+P0685,Sports Product 685,Sports,Vivid,12240.34,8726.93
+P0686,Sports Product 686,Sports,Nova,8876.31,6849.7
+P0687,Electronics Product 687,Electronics,Kairo,32212.12,21420.19
+P0688,Home & Kitchen Product 688,Home & Kitchen,UrbanNest,7384.06,5723.09
+P0689,Electronics Product 689,Electronics,Aster,42565.08,31699.63
+P0690,Sports Product 690,Sports,Kairo,5143.43,3339.46
+P0691,Electronics Product 691,Electronics,Vivid,18433.85,12256.12
+P0692,Home & Kitchen Product 692,Home & Kitchen,Vivid,5474.65,4190.8
+P0693,Books Product 693,Books,Kairo,1438.31,1076.16
+P0694,Books Product 694,Books,Vivid,869.44,559.0
+P0695,Home & Kitchen Product 695,Home & Kitchen,Kairo,16334.86,11655.43
+P0696,Electronics Product 696,Electronics,Vivid,35859.24,23821.97
+P0697,Sports Product 697,Sports,Aster,9684.73,6980.37
+P0698,Home & Kitchen Product 698,Home & Kitchen,Mira,14880.66,9639.29
+P0699,Electronics Product 699,Electronics,Mira,52177.93,35288.25
+P0700,Books Product 700,Books,UrbanNest,602.5,411.0
+P0701,Electronics Product 701,Electronics,Northstar,23760.29,16775.56
+P0702,Home & Kitchen Product 702,Home & Kitchen,Aster,6199.93,4081.36
+P0703,Home & Kitchen Product 703,Home & Kitchen,UrbanNest,9989.19,7356.43
+P0704,Beauty Product 704,Beauty,Vivid,1186.73,889.43
+P0705,Fashion Product 705,Fashion,UrbanNest,4650.34,3359.4
+P0706,Electronics Product 706,Electronics,Mira,30074.12,22991.46
+P0707,Fashion Product 707,Fashion,Aster,6130.24,4576.1
+P0708,Beauty Product 708,Beauty,Northstar,2794.31,1752.15
+P0709,Fashion Product 709,Fashion,Vivid,4997.22,3166.02
+P0710,Electronics Product 710,Electronics,Mira,44152.39,32036.75
+P0711,Home & Kitchen Product 711,Home & Kitchen,Kairo,4782.94,3517.85
+P0712,Beauty Product 712,Beauty,Mira,1013.36,785.22
+P0713,Electronics Product 713,Electronics,Kairo,33067.19,20519.29
+P0714,Home & Kitchen Product 714,Home & Kitchen,Nova,16006.03,10530.59
+P0715,Sports Product 715,Sports,Peak,4038.57,3041.37
+P0716,Sports Product 716,Sports,Northstar,7120.32,5430.28
+P0717,Electronics Product 717,Electronics,Mira,48697.12,33810.86
+P0718,Electronics Product 718,Electronics,Kairo,28215.05,19677.2
+P0719,Sports Product 719,Sports,Northstar,11932.66,9028.0
+P0720,Electronics Product 720,Electronics,Aster,54779.03,37994.46
+P0721,Electronics Product 721,Electronics,Peak,16861.28,12578.32
+P0722,Home & Kitchen Product 722,Home & Kitchen,Northstar,12180.37,9400.77
+P0723,Electronics Product 723,Electronics,Kairo,20688.71,13693.76
+P0724,Home & Kitchen Product 724,Home & Kitchen,UrbanNest,9930.96,6593.2
+P0725,Books Product 725,Books,Peak,1495.83,1152.05
+P0726,Home & Kitchen Product 726,Home & Kitchen,Kairo,5215.93,3587.98
+P0727,Electronics Product 727,Electronics,Kairo,54893.98,34172.4
+P0728,Electronics Product 728,Electronics,Nova,57360.68,40175.33
+P0729,Home & Kitchen Product 729,Home & Kitchen,UrbanNest,12870.9,9250.08
+P0730,Home & Kitchen Product 730,Home & Kitchen,UrbanNest,8844.18,5829.71
+P0731,Beauty Product 731,Beauty,Northstar,1419.96,1045.64
+P0732,Sports Product 732,Sports,Northstar,7238.14,4757.42
+P0733,Home & Kitchen Product 733,Home & Kitchen,Kairo,6581.28,4206.38
+P0734,Home & Kitchen Product 734,Home & Kitchen,Vivid,4532.22,2990.81
+P0735,Sports Product 735,Sports,Mira,3742.88,2640.32
+P0736,Electronics Product 736,Electronics,Aster,43066.03,32597.8
+P0737,Home & Kitchen Product 737,Home & Kitchen,Vivid,4541.19,3200.15
+P0738,Electronics Product 738,Electronics,Nova,27423.15,20727.45
+P0739,Home & Kitchen Product 739,Home & Kitchen,Vivid,12949.69,8161.8
+P0740,Sports Product 740,Sports,Mira,4801.65,3263.27
+P0741,Beauty Product 741,Beauty,Mira,1617.43,1115.43
+P0742,Electronics Product 742,Electronics,Mira,15758.28,11791.54
+P0743,Beauty Product 743,Beauty,Peak,1083.19,777.41
+P0744,Home & Kitchen Product 744,Home & Kitchen,Northstar,7172.49,5347.85
+P0745,Fashion Product 745,Fashion,Peak,2171.19,1463.75
+P0746,Sports Product 746,Sports,Aster,7610.97,5856.22
+P0747,Fashion Product 747,Fashion,UrbanNest,2174.83,1631.52
+P0748,Sports Product 748,Sports,Northstar,6033.97,4624.9
+P0749,Electronics Product 749,Electronics,Aster,45658.15,30227.86
+P0750,Home & Kitchen Product 750,Home & Kitchen,Northstar,12660.66,7862.92
+P0751,Books Product 751,Books,Peak,870.34,625.32
+P0752,Home & Kitchen Product 752,Home & Kitchen,Peak,16216.2,11332.09
+P0753,Fashion Product 753,Fashion,Northstar,5294.63,3942.55
+P0754,Beauty Product 754,Beauty,Nova,2285.44,1452.62
+P0755,Electronics Product 755,Electronics,UrbanNest,33268.84,23796.25
+P0756,Beauty Product 756,Beauty,Nova,955.89,623.07
+P0757,Home & Kitchen Product 757,Home & Kitchen,Aster,9569.84,6721.24
+P0758,Electronics Product 758,Electronics,Aster,37955.5,24493.88
+P0759,Sports Product 759,Sports,Aster,12515.12,9586.27
+P0760,Fashion Product 760,Fashion,Northstar,6071.34,3942.27
+P0761,Home & Kitchen Product 761,Home & Kitchen,UrbanNest,5714.11,4068.52
+P0762,Electronics Product 762,Electronics,UrbanNest,56704.3,35207.56
+P0763,Sports Product 763,Sports,Kairo,10281.14,6631.65
+P0764,Fashion Product 764,Fashion,Vivid,4797.15,3357.49
+P0765,Sports Product 765,Sports,Aster,11688.65,7323.57
+P0766,Home & Kitchen Product 766,Home & Kitchen,Vivid,8443.84,5968.49
+P0767,Home & Kitchen Product 767,Home & Kitchen,Northstar,9396.06,6102.68
+P0768,Sports Product 768,Sports,Vivid,11380.45,8378.81
+P0769,Electronics Product 769,Electronics,Kairo,18892.42,14337.96
+P0770,Beauty Product 770,Beauty,Vivid,2533.26,1878.08
+P0771,Electronics Product 771,Electronics,Kairo,49384.32,31119.16
+P0772,Home & Kitchen Product 772,Home & Kitchen,Vivid,15625.93,10929.02
+P0773,Beauty Product 773,Beauty,Northstar,1342.59,856.29
+P0774,Home & Kitchen Product 774,Home & Kitchen,Nova,12986.34,8901.48
+P0775,Fashion Product 775,Fashion,Mira,1980.02,1493.58
+P0776,Electronics Product 776,Electronics,Aster,51593.57,32327.79
+P0777,Home & Kitchen Product 777,Home & Kitchen,Mira,10454.08,6902.46
+P0778,Fashion Product 778,Fashion,Vivid,4524.18,3403.32
+P0779,Beauty Product 779,Beauty,UrbanNest,2878.84,1971.86
+P0780,Sports Product 780,Sports,Peak,7931.92,5216.48
+P0781,Electronics Product 781,Electronics,Aster,36374.05,28077.34
+P0782,Electronics Product 782,Electronics,Peak,34473.14,22232.31
+P0783,Beauty Product 783,Beauty,Aster,2269.68,1693.58
+P0784,Sports Product 784,Sports,Peak,9928.7,6438.69
+P0785,Electronics Product 785,Electronics,Nova,49183.27,38072.2
+P0786,Home & Kitchen Product 786,Home & Kitchen,Aster,4657.23,3473.23
+P0787,Electronics Product 787,Electronics,Northstar,29436.94,19552.86
+P0788,Electronics Product 788,Electronics,Nova,33085.19,25719.71
+P0789,Beauty Product 789,Beauty,UrbanNest,1049.82,670.11
+P0790,Sports Product 790,Sports,Northstar,10252.82,7766.88
+P0791,Electronics Product 791,Electronics,Vivid,36988.23,27072.01
+P0792,Beauty Product 792,Beauty,Vivid,814.58,527.7
+P0793,Books Product 793,Books,Peak,1172.12,829.18
+P0794,Beauty Product 794,Beauty,Vivid,1633.82,1016.09
+P0795,Fashion Product 795,Fashion,Northstar,5009.39,3565.19
+P0796,Books Product 796,Books,Nova,623.33,444.53
+P0797,Electronics Product 797,Electronics,Mira,14452.25,9905.05
+P0798,Beauty Product 798,Beauty,Kairo,1020.98,767.68
+P0799,Home & Kitchen Product 799,Home & Kitchen,Peak,9923.13,7630.09
+P0800,Electronics Product 800,Electronics,UrbanNest,46714.02,32952.16
+P0801,Electronics Product 801,Electronics,Northstar,40489.09,29469.28
+P0802,Electronics Product 802,Electronics,Vivid,15046.56,9680.01
+P0803,Fashion Product 803,Fashion,Kairo,4370.35,3407.54
+P0804,Beauty Product 804,Beauty,Peak,1981.68,1500.66
+P0805,Electronics Product 805,Electronics,Peak,48810.74,37674.3
+P0806,Beauty Product 806,Beauty,Peak,1433.7,1067.38
+P0807,Fashion Product 807,Fashion,UrbanNest,4971.95,3339.49
+P0808,Electronics Product 808,Electronics,Kairo,41692.76,27328.31
+P0809,Fashion Product 809,Fashion,Kairo,4518.63,3171.03
+P0810,Electronics Product 810,Electronics,Aster,31919.99,20212.24
+P0811,Electronics Product 811,Electronics,Aster,14955.05,10592.53
+P0812,Home & Kitchen Product 812,Home & Kitchen,Aster,6681.51,4538.0
+P0813,Beauty Product 813,Beauty,UrbanNest,2861.53,2107.43
+P0814,Electronics Product 814,Electronics,Aster,41047.67,29558.87
+P0815,Home & Kitchen Product 815,Home & Kitchen,Vivid,11689.66,7708.67
+P0816,Sports Product 816,Sports,Mira,8117.78,5985.65
+P0817,Fashion Product 817,Fashion,Northstar,1938.5,1298.36
+P0818,Beauty Product 818,Beauty,Mira,1654.84,1091.82
+P0819,Home & Kitchen Product 819,Home & Kitchen,Nova,12215.6,8391.73
+P0820,Beauty Product 820,Beauty,Northstar,1115.09,719.52
+P0821,Sports Product 821,Sports,Northstar,11853.39,7965.78
+P0822,Electronics Product 822,Electronics,Peak,17538.4,11602.98
+P0823,Sports Product 823,Sports,Northstar,9573.98,5969.15
+P0824,Electronics Product 824,Electronics,Aster,27413.65,18316.16
+P0825,Fashion Product 825,Fashion,Vivid,5655.86,3929.09
+P0826,Electronics Product 826,Electronics,Kairo,50119.36,37727.76
+P0827,Electronics Product 827,Electronics,Peak,28794.73,18684.22
+P0828,Books Product 828,Books,Nova,966.47,649.84
+P0829,Beauty Product 829,Beauty,Aster,3140.64,1961.96
+P0830,Home & Kitchen Product 830,Home & Kitchen,UrbanNest,12071.34,7629.3
+P0831,Fashion Product 831,Fashion,Kairo,1603.36,1085.44
+P0832,Books Product 832,Books,Kairo,1349.35,944.53
+P0833,Electronics Product 833,Electronics,Vivid,30008.76,22198.14
+P0834,Sports Product 834,Sports,UrbanNest,5756.69,4272.09
+P0835,Electronics Product 835,Electronics,UrbanNest,50348.49,38578.86
+P0836,Fashion Product 836,Fashion,Kairo,6146.57,4703.65
+P0837,Electronics Product 837,Electronics,Vivid,17080.13,10867.06
+P0838,Fashion Product 838,Fashion,Kairo,3419.43,2181.35
+P0839,Electronics Product 839,Electronics,UrbanNest,26483.69,18524.99
+P0840,Home & Kitchen Product 840,Home & Kitchen,Kairo,15788.69,11278.11
+P0841,Fashion Product 841,Fashion,Peak,5674.86,4061.28
+P0842,Electronics Product 842,Electronics,Northstar,53328.26,37212.68
+P0843,Beauty Product 843,Beauty,Kairo,913.66,709.91
+P0844,Electronics Product 844,Electronics,UrbanNest,16564.74,11619.05
+P0845,Home & Kitchen Product 845,Home & Kitchen,Kairo,11346.71,8732.99
+P0846,Fashion Product 846,Fashion,Northstar,2363.61,1839.15
+P0847,Electronics Product 847,Electronics,Peak,19266.85,13314.23
+P0848,Sports Product 848,Sports,Kairo,5610.39,3598.52
+P0849,Home & Kitchen Product 849,Home & Kitchen,Peak,13373.06,8988.66
+P0850,Sports Product 850,Sports,Northstar,9497.13,6433.04
+P0851,Sports Product 851,Sports,Aster,10570.07,8055.79
+P0852,Home & Kitchen Product 852,Home & Kitchen,Kairo,5079.8,3931.11
+P0853,Electronics Product 853,Electronics,Mira,47509.05,30745.23
+P0854,Electronics Product 854,Electronics,Mira,35594.68,22183.02
+P0855,Books Product 855,Books,Kairo,785.29,591.25
+P0856,Home & Kitchen Product 856,Home & Kitchen,Northstar,12101.9,8584.89
+P0857,Electronics Product 857,Electronics,Northstar,48939.7,36224.56
+P0858,Electronics Product 858,Electronics,Mira,18887.4,12712.49
+P0859,Fashion Product 859,Fashion,Northstar,5389.46,3478.16
+P0860,Home & Kitchen Product 860,Home & Kitchen,UrbanNest,11578.07,7668.68
+P0861,Electronics Product 861,Electronics,Nova,41186.33,25854.99
+P0862,Beauty Product 862,Beauty,Mira,2945.85,2008.29
+P0863,Books Product 863,Books,Nova,1267.63,806.06
+P0864,Beauty Product 864,Beauty,Mira,2227.96,1546.66
+P0865,Sports Product 865,Sports,Mira,6325.41,4730.62
+P0866,Home & Kitchen Product 866,Home & Kitchen,Aster,10819.73,6790.69
+P0867,Electronics Product 867,Electronics,Kairo,50539.68,38585.73
+P0868,Home & Kitchen Product 868,Home & Kitchen,Vivid,17043.66,10902.9
+P0869,Sports Product 869,Sports,Peak,10295.64,7463.9
+P0870,Electronics Product 870,Electronics,Vivid,48535.02,31959.62
+P0871,Home & Kitchen Product 871,Home & Kitchen,Peak,13245.04,10002.48
+P0872,Sports Product 872,Sports,Kairo,10397.68,6463.78
+P0873,Fashion Product 873,Fashion,Peak,2724.02,1872.55
+P0874,Electronics Product 874,Electronics,Nova,32709.58,25314.09
+P0875,Beauty Product 875,Beauty,Peak,2161.07,1378.9
+P0876,Home & Kitchen Product 876,Home & Kitchen,Vivid,11321.88,8397.47
+P0877,Sports Product 877,Sports,Peak,8794.18,6474.79
+P0878,Books Product 878,Books,Vivid,1587.84,1065.55
+P0879,Electronics Product 879,Electronics,Mira,51347.69,32332.24
+P0880,Beauty Product 880,Beauty,Peak,2821.63,2125.52
+P0881,Fashion Product 881,Fashion,Kairo,5498.5,4205.15
+P0882,Books Product 882,Books,Mira,1368.9,876.72
+P0883,Home & Kitchen Product 883,Home & Kitchen,Kairo,12985.79,9812.74
+P0884,Electronics Product 884,Electronics,Vivid,25482.64,19196.47
+P0885,Electronics Product 885,Electronics,Mira,51369.12,36591.44
+P0886,Fashion Product 886,Fashion,Peak,2896.73,2159.12
+P0887,Electronics Product 887,Electronics,UrbanNest,45715.19,28632.18
+P0888,Electronics Product 888,Electronics,Kairo,19194.5,13424.41
+P0889,Books Product 889,Books,Mira,1069.94,828.9
+P0890,Home & Kitchen Product 890,Home & Kitchen,Nova,8363.62,6222.82
+P0891,Electronics Product 891,Electronics,UrbanNest,44832.55,29719.56
+P0892,Fashion Product 892,Fashion,UrbanNest,5616.23,4042.37
+P0893,Electronics Product 893,Electronics,Kairo,15070.77,9856.4
+P0894,Home & Kitchen Product 894,Home & Kitchen,UrbanNest,5741.18,3763.57
+P0895,Electronics Product 895,Electronics,Northstar,54382.33,35364.58
+P0896,Home & Kitchen Product 896,Home & Kitchen,Mira,7343.65,4776.29
+P0897,Electronics Product 897,Electronics,Mira,45970.1,32173.86
+P0898,Fashion Product 898,Fashion,Mira,5414.28,3625.23
+P0899,Home & Kitchen Product 899,Home & Kitchen,Vivid,13772.56,10253.31
+P0900,Electronics Product 900,Electronics,Vivid,15787.04,12046.43
+P0901,Books Product 901,Books,Northstar,1298.54,906.4
+P0902,Fashion Product 902,Fashion,UrbanNest,6118.42,3980.71
+P0903,Sports Product 903,Sports,Vivid,6635.1,5173.25
+P0904,Books Product 904,Books,Peak,1267.96,795.68
+P0905,Electronics Product 905,Electronics,Kairo,26343.49,18649.69
+P0906,Sports Product 906,Sports,Vivid,12575.95,8239.06
+P0907,Beauty Product 907,Beauty,Peak,1316.27,1013.56
+P0908,Sports Product 908,Sports,Vivid,6037.6,4057.23
+P0909,Electronics Product 909,Electronics,Nova,21653.52,16744.38
+P0910,Fashion Product 910,Fashion,UrbanNest,6088.21,4722.31
+P0911,Electronics Product 911,Electronics,Kairo,39085.62,30130.17
+P0912,Electronics Product 912,Electronics,Nova,25069.75,18722.99
+P0913,Fashion Product 913,Fashion,Northstar,2210.54,1632.69
+P0914,Electronics Product 914,Electronics,Mira,52191.65,40315.1
+P0915,Electronics Product 915,Electronics,Northstar,17106.89,11218.48
+P0916,Home & Kitchen Product 916,Home & Kitchen,Northstar,12524.85,9388.43
+P0917,Home & Kitchen Product 917,Home & Kitchen,Northstar,12099.9,7721.65
+P0918,Home & Kitchen Product 918,Home & Kitchen,Nova,14173.27,9608.07
+P0919,Fashion Product 919,Fashion,Nova,4796.72,3282.36
+P0920,Sports Product 920,Sports,Mira,11054.69,8614.39
+P0921,Fashion Product 921,Fashion,Peak,1754.7,1178.03
+P0922,Electronics Product 922,Electronics,Peak,32988.59,23380.91
+P0923,Electronics Product 923,Electronics,Nova,17897.74,12910.69
+P0924,Books Product 924,Books,Northstar,897.34,653.67
+P0925,Home & Kitchen Product 925,Home & Kitchen,Aster,11467.59,7330.36
+P0926,Electronics Product 926,Electronics,Nova,40051.07,28414.64
+P0927,Books Product 927,Books,Nova,1528.59,1102.96
+P0928,Home & Kitchen Product 928,Home & Kitchen,Mira,16096.09,12306.04
+P0929,Home & Kitchen Product 929,Home & Kitchen,Mira,8248.01,6377.09
+P0930,Electronics Product 930,Electronics,Aster,44599.77,29329.0
+P0931,Sports Product 931,Sports,Nova,9885.08,6461.71
+P0932,Electronics Product 932,Electronics,Mira,55748.97,40663.27
+P0933,Sports Product 933,Sports,Northstar,3943.18,2753.59
+P0934,Fashion Product 934,Fashion,Northstar,4491.04,3318.75
+P0935,Sports Product 935,Sports,Vivid,6998.64,5289.26
+P0936,Electronics Product 936,Electronics,Nova,29404.58,18281.11
+P0937,Electronics Product 937,Electronics,Northstar,41075.75,31242.09
+P0938,Beauty Product 938,Beauty,Nova,1489.27,986.6
+P0939,Beauty Product 939,Beauty,Aster,897.16,695.39
+P0940,Electronics Product 940,Electronics,Kairo,48000.64,33064.85
+P0941,Home & Kitchen Product 941,Home & Kitchen,Peak,5388.18,4075.57
+P0942,Sports Product 942,Sports,Aster,6251.47,4075.89
+P0943,Beauty Product 943,Beauty,Peak,2255.67,1588.05
+P0944,Beauty Product 944,Beauty,Aster,2325.68,1465.47
+P0945,Sports Product 945,Sports,Peak,9446.2,6967.28
+P0946,Electronics Product 946,Electronics,Northstar,57362.55,44211.38
+P0947,Fashion Product 947,Fashion,UrbanNest,3471.55,2620.67
+P0948,Beauty Product 948,Beauty,Aster,1144.11,833.89
+P0949,Home & Kitchen Product 949,Home & Kitchen,Mira,6044.2,3862.43
+P0950,Home & Kitchen Product 950,Home & Kitchen,Vivid,10818.94,8411.01
+P0951,Electronics Product 951,Electronics,Aster,30977.54,20910.89
+P0952,Electronics Product 952,Electronics,Vivid,53848.67,38838.01
+P0953,Beauty Product 953,Beauty,Mira,2051.56,1361.57
+P0954,Electronics Product 954,Electronics,Aster,33924.42,25523.77
+P0955,Fashion Product 955,Fashion,Kairo,5649.64,3844.85
+P0956,Electronics Product 956,Electronics,Peak,48791.88,33300.87
+P0957,Electronics Product 957,Electronics,Northstar,45239.57,28080.96
+P0958,Sports Product 958,Sports,Aster,8133.5,5791.49
+P0959,Electronics Product 959,Electronics,Mira,24537.84,16197.85
+P0960,Sports Product 960,Sports,Mira,8512.63,6533.41
+P0961,Electronics Product 961,Electronics,Vivid,19401.06,14459.69
+P0962,Fashion Product 962,Fashion,Nova,4111.44,3175.39
+P0963,Books Product 963,Books,Nova,1439.5,982.26
+P0964,Home & Kitchen Product 964,Home & Kitchen,Northstar,10880.04,7897.57
+P0965,Electronics Product 965,Electronics,Kairo,17358.18,12016.87
+P0966,Beauty Product 966,Beauty,Northstar,886.1,678.3
+P0967,Electronics Product 967,Electronics,Peak,51573.12,34651.04
+P0968,Electronics Product 968,Electronics,Kairo,24089.05,16201.43
+P0969,Beauty Product 969,Beauty,Northstar,2087.45,1416.44
+P0970,Electronics Product 970,Electronics,UrbanNest,47957.28,33553.13
+P0971,Sports Product 971,Sports,Kairo,5542.84,4223.84
+P0972,Electronics Product 972,Electronics,Nova,46257.68,30215.28
+P0973,Fashion Product 973,Fashion,Kairo,1930.76,1398.27
+P0974,Sports Product 974,Sports,Vivid,10224.4,6839.64
+P0975,Home & Kitchen Product 975,Home & Kitchen,Northstar,5095.67,3226.71
+P0976,Sports Product 976,Sports,Northstar,5768.97,4457.02
+P0977,Electronics Product 977,Electronics,Aster,25489.62,19008.24
+P0978,Electronics Product 978,Electronics,Kairo,52909.13,40862.94
+P0979,Fashion Product 979,Fashion,Kairo,4100.42,2804.86
+P0980,Beauty Product 980,Beauty,Aster,2858.67,2118.61
+P0981,Fashion Product 981,Fashion,Nova,4326.27,3133.01
+P0982,Fashion Product 982,Fashion,Kairo,5387.63,3873.94
+P0983,Home & Kitchen Product 983,Home & Kitchen,UrbanNest,11345.96,7107.6
+P0984,Sports Product 984,Sports,Aster,7401.68,4673.99
+P0985,Sports Product 985,Sports,Kairo,9367.88,6100.76
+P0986,Electronics Product 986,Electronics,Vivid,26774.59,19811.71
+P0987,Home & Kitchen Product 987,Home & Kitchen,Peak,16057.8,12006.98
+P0988,Electronics Product 988,Electronics,Vivid,53631.51,38805.37
+P0989,Home & Kitchen Product 989,Home & Kitchen,Peak,5207.8,3388.88
+P0990,Fashion Product 990,Fashion,Nova,5906.82,4397.15
+P0991,Home & Kitchen Product 991,Home & Kitchen,Vivid,6607.42,4216.56
+P0992,Fashion Product 992,Fashion,Mira,4794.02,3658.05
+P0993,Books Product 993,Books,Mira,1405.07,957.64
+P0994,Beauty Product 994,Beauty,Northstar,1396.21,1028.08
+P0995,Fashion Product 995,Fashion,Nova,2107.3,1363.67
+P0996,Beauty Product 996,Beauty,Nova,2647.51,1774.59
+P0997,Home & Kitchen Product 997,Home & Kitchen,UrbanNest,9949.15,6956.88
+P0998,Fashion Product 998,Fashion,Aster,3874.58,2709.95
+P0999,Sports Product 999,Sports,Nova,10349.59,6577.7
+P1000,Books Product 1000,Books,Kairo,713.36,504.87
